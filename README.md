@@ -1,2 +1,3 @@
 # Dissonancia
 Temperamento igual (Oh! se Pitágoras soubesse disso...)
+Um programa que recebe duas notas musicais(presentes num piano) e apresenta suas frequências, a razão entre elas e uma aproximação desta. Ao descobrir que existia algo chamado "harmonia", decidi que era mais simples criar um programinha para me dizer se duas notas quaisquer são consoantes do que determinar isso por conta própria, isto é, usar minhas faculdades óticas para minhas práticas lúdicas. Aliás, fiz isso também pela indignação causada pela descoberta de que não há, com o temperamento igual, "quintas justas"-fiquei desolado apesar de tê-las conhecido no mesmo dia.
